@@ -38,7 +38,8 @@ CHMAQUINA es un simulador gráfico de un computador ficticio con un procesador e
    - **Fase A**: Interfaz gráfica, carga, chequeo de sintaxis y ejecución.
    - **Fase B**: Planificación de procesos.
    - **Fase C**: Administración de memoria.
--Presentado al docente Carlos Hernan Gomez Gomez.
+
+Presentado al docente Carlos Hernan Gomez Gomez.
 
 ## Ejemplos de Programas
 ### Factorial
